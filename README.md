@@ -118,6 +118,10 @@ docker compose up -d
 
 Full guide: [Self-host SilentSuite](./docs/self-hosting/)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/SilentSuite/)
+
 ## Help test and contribute
 
 Useful contributions include:
